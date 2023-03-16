@@ -1,0 +1,12 @@
+{
+  "name": "exploring-codespace-with-auth",
+  "version": "1.0.0",
+  "description": "exploring codespace for the first time with a crash course titled \" Github Codespace crash course' by Hitesh Choudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
